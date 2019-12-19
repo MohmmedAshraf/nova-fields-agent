@@ -1,7 +1,9 @@
 # Laravel Nova Fields Agent
 [![GitHub license](https://img.shields.io/github/license/MohmmedAshraf/nova-fields-agent.svg)](https://github.com/MohmmedAshraf/nova-fields-agent/blob/master/LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/MohmmedAshraf/nova-fields-agent.svg)](https://github.com/MohmmedAshraf/nova-fields-agent/issues)
-![GitHub Releases](https://img.shields.io/github/downloads/MohmmedAshraf/nova-fields-agent/total.svg)
+[![Total Downloads](https://poser.pugx.org/outhebox/nova-fields-agent/downloads)](https://packagist.org/packages/outhebox/nova-fields-agent)
+
+
 
 
 ## Description
