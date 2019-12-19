@@ -1,0 +1,41 @@
+{
+    "name": "outhebox/nova-fields-agent",
+    "description": "This field give the ability to hide fields from your resources table on mobile screens for a better responsive concept",
+    "keywords": [
+        "laravel",
+        "nova",
+        "mobile",
+        "responsive",
+        "Mohamed Ashraf",
+        "OutheBox"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Ashraf",
+            "email": "cupo.ashraf@gmail.com",
+            "role": "Owner"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "jenssegers/agent": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Outhebox\\NovaFieldsAgent\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Outhebox\\NovaFieldsAgent\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
