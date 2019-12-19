@@ -7,6 +7,9 @@
 ## Description
 This field give the ability to hide fields from your resources table on mobile screens for a better responsive concept.
 
+## Screenshots
+![Screenshot](screenshot.gif)
+
 ## Installation
 This package can be installed through Composer.
 ```bash
