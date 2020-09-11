@@ -51,4 +51,4 @@ class Example extends Resource
 Laravel Nova Fields Agent is licensed under [The MIT License (MIT)](LICENSE.md) .
 
 ## Donate
-💜 If you like this package, you can show your appreciation by [donating any amount via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VVWTL646KP7KC&source=url) to support ongoing development.
+If you like this package, you can show your appreciation 💜 by [donating any amount via Patreon](https://www.patreon.com/m_ashraf) to support ongoing development.
