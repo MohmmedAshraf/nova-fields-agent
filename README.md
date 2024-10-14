@@ -9,6 +9,16 @@
 ## Description
 This field give the ability to hide fields from your resources table on mobile screens for a better responsive concept.
 
+## Support
+
+[<img src="https://outhebox-github-ads.s3.us-east-1.amazonaws.com/nova-fields-agent.jpg)?t=1" width="419px" />](https://outhebox.dev/github-ad-click/nova-fields-agent).
+
+Thank you for considering supporting the development of this package! If you'd like to contribute, you can buy me a coffee or sponsor me to help keep me motivated to continue improving this package. You can also support the project by starring ⭐ the repository.
+
+To buy me a coffee, click the button below:
+
+<a href="https://www.buymeacoffee.com/outhebox" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 ## Screenshots
 ![Screenshot](screenshot.gif)
 
